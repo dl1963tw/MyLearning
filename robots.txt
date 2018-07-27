@@ -1,1 +1,2 @@
-Sitemap: https://github.com/dl1963tw/MyLearning/blob/master/
+Sitemap: https://github.com/dl1963tw/MyLearning
+Sitemap: https://github.com/dl1963tw/MyLearning/sitemap_location.xml
